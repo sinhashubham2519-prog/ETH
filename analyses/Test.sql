@@ -1,0 +1,1 @@
+{{ codegen.generate_source(schema_name='ETH_SCHEMA', database_name='eth', generate_columns=True)}}
